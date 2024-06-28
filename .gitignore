@@ -2,3 +2,6 @@ menv/
 build/
 dist/
 ML_end_2_end_project.egg-info/
+logs
+src/__pycache__/
+src/mlproject/__pycache__/
